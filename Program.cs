@@ -12,6 +12,14 @@ namespace HelloWorld
             Console.WriteLine(greeting);
 
 
+            int number = 46;
+
+            Console.WriteLine(number);
+
+
+            string farewell = "Good Bye World!";
+
+
 
 
         }
